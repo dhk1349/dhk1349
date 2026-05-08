@@ -9,7 +9,6 @@ Deep Learning Engineer — multimodal modeling & efficient LLM inference.
 Researcher-leaning DL engineer working at the intersection of **vision–language models** and **LLM inference efficiency**. Currently focused on KV cache compression and long-context handling.
 
 - **Interests:** Vision & Language, multimodal foundation models, LLMs, efficient inference
-- **Paper notes:** [dhk1349.tistory.com](https://dhk1349.tistory.com/)
 
 ### News
 
