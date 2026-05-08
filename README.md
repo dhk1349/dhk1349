@@ -29,7 +29,7 @@ Researcher-leaning DL engineer working at the intersection of **vision–languag
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhk1349/)
 [![Google&nbsp;Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=BKlC7TQAAAAJ&hl=ko)
 [![Blog](https://img.shields.io/badge/Blog-FF7B00?style=flat&logo=rss&logoColor=white)](https://dhk1349.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhk1349@gmail.com)
+![Email](https://img.shields.io/badge/dhk1349_%5Bat%5D_gmail_%5Bdot%5D_com-EA4335?style=flat&logo=gmail&logoColor=white)
 
 <!---
 dhk1349/dhk1349 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
